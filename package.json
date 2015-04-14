@@ -4,5 +4,6 @@
   "description": "A simple library to get polygonal numbers",
   "main": "index.js",
   "author": "Vinicius Veroneze <viniciusgv@yahoo.com.br>",
+  "repository": "https://github.com/viniciusvgv/polygonal",
   "license": "MIT"
 }
