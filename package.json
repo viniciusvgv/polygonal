@@ -1,0 +1,8 @@
+{
+  "name": "polygonal",
+  "version": "1.0.0",
+  "description": "A simple library to get polygonal numbers",
+  "main": "index.js",
+  "author": "Vinicius Veroneze <viniciusgv@yahoo.com.br>",
+  "license": "MIT"
+}
