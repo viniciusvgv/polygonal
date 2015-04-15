@@ -27,7 +27,7 @@ $ npm install polygonal
 
 
 ### Usage
-```
+```javascript
 var polygonal = require('polygonal');
 
 // get the second pentagonal
@@ -39,4 +39,4 @@ var y = polygonal.getPentagonal(2);
 
 
 ###References
-[Wikipedia](http://en.wikipedia.org/wiki/Polygonal_number) Polygonal Number
+http://en.wikipedia.org/wiki/Polygonal_number
