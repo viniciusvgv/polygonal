@@ -40,4 +40,4 @@ var y = polygonal.getPentagonal(2);
 
 ### References
 
-![Wikipedia - Polygonal number](http://en.wikipedia.org/wiki/Polygonal_number)
+[Wikipedia - Polygonal number](http://en.wikipedia.org/wiki/Polygonal_number)
