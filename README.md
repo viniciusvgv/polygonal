@@ -1,6 +1,6 @@
 # polygonal
 
-NodeJs module for getting polygonal numbers
+NodeJs module for getting polygonal numbers.
 
 
 ### The Polygonal Numbers
@@ -20,7 +20,7 @@ The formula to get the n*th* polygonal number of a s-sided polygon is:
 
 
 ### Installation
-This module is on the npm repository, to intall it run the following command
+This module is on the npm repository, to install it run the following command
 ```sh
 $ npm install polygonal
 ```
@@ -39,4 +39,5 @@ var y = polygonal.getPentagonal(2);
 
 
 ### References
-http://en.wikipedia.org/wiki/Polygonal_number
+
+![Wikipedia - Polygonal number](http://en.wikipedia.org/wiki/Polygonal_number)
